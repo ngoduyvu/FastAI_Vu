@@ -1,4 +1,4 @@
-
+[![fastai python compatibility](https://img.shields.io/pypi/pyversions/fastai.svg)](https://pypi.python.org/pypi/fastai)
 
 # FastAI_Vu
 **Setup locally**
