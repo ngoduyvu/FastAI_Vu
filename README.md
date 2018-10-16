@@ -30,7 +30,7 @@ pip install -e .[dev]
 The FastAI environment can be setup on AWS EC2, AWS maketplace provide pre-build Amazon instance called "Deep Learning AMI (Ubuntu)" which provides all popular deep learning frameworks such as Tensorflow, Pytorch, Caffe, Apache MXNet. The size of Amazon instance should be around "t2.xlarge", the cost for Amazon is quite expensive.
 
 The Kaggle provides free kernel to run FastAI lession, all the notebook are provided data with neccessary GPU power. 
-the lession 4 of Kaggle's kernel has some error but the remain is fine. 
+the lession 4 of Kaggle's kernel has some error but the remain is fine. <br/> 
 Lession 1: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-1 <br/>
 Lession 2: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-2 <br/>
 Lession 3: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-3 <br/>
