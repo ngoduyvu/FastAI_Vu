@@ -50,3 +50,4 @@ https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html<br>
 The move 37 is a deep learning code create by Siraj RaVal, the code teach about Reinforment Learning and several new technology in Deel Learning technology.
 
 ![RL](https://github.com/ngoduyvu/FastAI_Vu/blob/master/SchoolAI/Img/Deep%20Reinforcement%20Learning.png)
+######Source: CS 294 Deep Reinforcement Learning (UC Berkeley)
