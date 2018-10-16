@@ -1,6 +1,10 @@
+| **`Documentation`** |
+|-----------------|
+| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
+
 [![fastai python compatibility](https://img.shields.io/pypi/pyversions/fastai.svg)](https://pypi.python.org/pypi/fastai)
 
-# FastAI_Vu
+# FastAI Course
 **Setup locally**
 * Step 1: Install Conda
 Anaconda is a develop environment which is very popular in Python developer and Data Scienst communities. The environment can be download from [conda's website](https://www.anaconda.com/download/), the Linux operation can install Anaconda by following command. 
@@ -44,3 +48,7 @@ Lession 7b: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-7-cam <br/>
 Summary FastAI Course:<br> 
 https://medium.com/@hiromi_suenaga<br>
 https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html<br>
+
+
+# Move 37
+The move 37 is a deep learning code create by Siraj RaVal
