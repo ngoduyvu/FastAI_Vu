@@ -1,7 +1,7 @@
 
 
 # FastAI_Vu
-Set up locally
+**Setup locally**
 * Step 1: Install Conda
 Anaconda is a develop environment which is very popular in Python developer and Data Scienst communities. The environment can be download from [conda's website](https://www.anaconda.com/download/), the Linux operation can install Anaconda by following command. 
 ```
@@ -26,8 +26,11 @@ cd fastai
 tools/run-after-git-clone
 pip install -e .[dev]
 ```
+**Setup on Cloud**
+The FastAI environment can be setup on AWS EC2, AWS maketplace provide pre-build Amazon instance called "Deep Learning AMI (Ubuntu)" which provides all popular deep learning frameworks such as Tensorflow, Pytorch, Caffe, Apache MXNet. The size of Amazon instance should be around "t2.xlarge", the cost for Amazon is quite expensive.
 
-Run FastAI lession on Kaggle:
+The Kaggle provides free kernel to run FastAI lession, all the notebook are provided data with neccessary GPU power. 
+the lession 4 of Kaggle's kernel has some error but the remain is fine. 
 Lession 1: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-1 <br/>
 Lession 2: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-2 <br/>
 Lession 3: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-3 <br/>
@@ -38,6 +41,6 @@ Lession 6b: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-6-rnn <br/>
 Lession 7a: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-7-cifar10 <br/>
 Lession 7b: https://www.kaggle.com/hortonhearsafoo/fast-ai-lesson-7-cam <br/>
 
-Summary FastAI Course: 
-https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197<br>
+Summary FastAI Course:<br> 
+https://medium.com/@hiromi_suenaga<br>
 https://www.kdnuggets.com/2018/07/fast-ai-deep-learning-part-1-notes.html<br>
