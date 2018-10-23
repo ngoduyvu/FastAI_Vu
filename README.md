@@ -56,7 +56,22 @@ Reinforcement Learning (RL) is a type of Machine Learning, it automatically dete
 
 ## Tips for improving Deep Learning model
 1. Data Optimization
+One of the easiest ways to increase performance for underperforming deep learning models is to balance your dataset if your problem is classification. Often real-world data sets are skewed, there are a few tricks which could help deep learning model to due with unbalance data.
+  * Subsample Majority Class: You can balance the class distributions by subsampling the majority class.
+  * Oversample Minority Class: Sampling with replacement can be used to increase your minority class proportion.
+  * Add or Generate More Data: Find similar data to add to the existing data or use machine learning model create new data.
 2. Algorithm tuning
+  * Use the same algorithms which researchers used for similar problems
+  * Try different models for a same problem.
 3. Hyper-Parameter Optimization
+  * Learning rates: A standard procedure is using large batch sizes with a large number of epochs for modern deep learning implementations, but common strategies yield common results. Experiment with the size of your batches and the number of training epochs.
+  * Batch size and number of epochs: A standard procedure is using large batch sizes with a large number of epochs for modern deep learning implementations, but common strategies yield common results. Experiment with the size of your batches and the number of training epochs.
+  * Early Stopping: This is an excellent method for reducing the generalization error of your deep learning system. Continual training might improve accuracy on your data set, but at a certain point, it starts to reduce the model’s accuracy on data not yet seen by the model. To improve real-world performance try early stopping.
+  * Network Architecture: By exploring different architecture of a same types of a Deep Learning Model, you can find the optimize architecture. 
+  * Regularization: A robust method to stop overfitting is to use regularization. There are a couple of different ways to use regularization that you can train on your deep learning project. If you haven’t tried these methods yet I would start to include them into every project you do. 
 4. Ensembles
+You can combine the outputs from the different models and get better accuracy. There are two steps for every one of these algorithms.
+  * Producing a distribution of simple ML models on subsets of the original data
+  * Combining the distribution into one “Aggregated” model
+  
 
