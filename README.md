@@ -53,3 +53,10 @@ The move 37 is a deep learning code create by Siraj RaVal, the code teach about 
 ###### Source: CS 294 Deep Reinforcement Learning (UC Berkeley)
 
 Reinforcement Learning (RL) is a type of Machine Learning, it automatically determine an ideal behavious within a specific enviroment or context in order to maximize its performance.The RL models find the optimal behaviors by choose actions which return the most rewards based on feedback from the environment. RL differs from normal supervised machine learning models in that correct input/output pairs need not be presented, and sub-optimal actions need not be explicitly corrected.Instead the focus is on performance , which involves finding a balance between exploration (of uncharted territory) and exploitation (of current knowledge).
+
+## Tips for improving Deep Learning model
+1. Data Optimization
+2. Algorithm tuning
+3. Hyper-Parameter Optimization
+4. Ensembles
+
